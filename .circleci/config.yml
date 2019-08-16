@@ -33,7 +33,7 @@ jobs:
           command: git clone --single-branch git@github.com:Renddslow/otfl-site.git --depth=1
           working_directory: ~/
       - run:
-          command: git checkout -B master && rm -rf posts/
+          command: git checkout -B master && rm -rf posts/ && mkdir posts
           working_directory: ~/otfl-site
       - run: yarn build:posts ~/otfl-site/posts
       - run: yarn build:css ~/otfl-site/style.css
