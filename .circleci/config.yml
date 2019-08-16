@@ -1,0 +1,60 @@
+version: 2.1
+references:
+  defaults: &defaults
+    docker:
+      - image: circleci/node:8
+    working_directory: ~/otfl
+
+  # Cache keys for node_modules
+  npm_cache_key: &npm_cache_key
+    npm-dependencies-{{ .Branch }}-{{ checksum "yarn.lock" }}
+  npm_backup_cache_key_1: &npm_backup_cache_key_1
+    npm-dependencies-{{ .Branch }}-
+  npm_backup_cache_key_2: &npm_backup_cache_key_2
+    npm-dependencies
+
+  restore_node_modules: &restore_node_modules
+    restore_cache:
+      keys:
+        - *npm_cache_key
+        - *npm_backup_cache_key_1
+        - *npm_backup_cache_key_2
+
+jobs:
+  build:
+    <<: *defaults
+    steps:
+      - checkout
+      - *restore_node_modules
+      - add_ssh_keys
+      - run: yarn
+      - run:
+          name: Checkout otfl-site repo
+          command: git clone --single-branch git@bitbucket.org:Renddslow/otfl-site.git --depth=1
+          working_directory: ~/
+      - run:
+          command: git checkout -B master && rm -rf posts/
+          working_directory: ~/otfl-site
+      - run: yarn build:posts ~/otfl-site/posts
+      - run: yarn build:css ~/otfl-site/style.css
+      - run:
+          command: git config user.email "mubatt@wyopub.com" && git config user.name "$CIRCLE_USERNAME" && git config push.default current
+          working_directory: ~/otfl-site
+      - run:
+          command: git add .
+          working_directory: ~/otfl-site
+      - run:
+          command: git diff --quiet && git diff --staged --quiet && echo "No changes to commit" || git commit -am "Automatic publish from CircleCI"
+          working_directory: ~/otfl-site
+      - run:
+          command: git push -f
+          working_directory: ~/otfl-site
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build:
+          filters:
+            only:
+              - master
