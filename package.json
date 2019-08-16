@@ -1,0 +1,15 @@
+{
+  "name": "otfl-posts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Renddslow/otfl-posts",
+  "author": "Matt McElwee <mmcelwee@dmsi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@otfl/build": "^1.0.2"
+  },
+  "scripts": {
+    "build:posts": "otfl-build post ./posts",
+    "build:css": "otfl-build css"
+  }
+}
