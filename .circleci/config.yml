@@ -30,7 +30,7 @@ jobs:
       - run: yarn
       - run:
           name: Checkout otfl-site repo
-          command: git clone --single-branch git@bitbucket.org:Renddslow/otfl-site.git --depth=1
+          command: git clone --single-branch git@github.com:Renddslow/otfl-site.git --depth=1
           working_directory: ~/
       - run:
           command: git checkout -B master && rm -rf posts/
