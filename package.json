@@ -9,6 +9,7 @@
     "@otfl/build": "^1.1.6"
   },
   "scripts": {
+    "build:pages": "otfl-build page ./pages",
     "build:posts": "otfl-build post ./posts",
     "build:css": "otfl-build css",
     "up": "yarn add @otfl/build"
