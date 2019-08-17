@@ -36,9 +36,7 @@ jobs:
           command: git checkout -B master && rm -rf posts/ && mkdir posts
           working_directory: ~/otfl-site
       - run: yarn build:posts ~/otfl-site/posts
-      - run:
-          command: yarn build:css ./
-          working_directory: ~/otfl-site
+      - run: yarn build:css ./ && cp style.css ~/otfl-site
       - run:
           command: git config user.email "mubatt@wyopub.com" && git config user.name "$CIRCLE_USERNAME" && git config push.default current
           working_directory: ~/otfl-site
