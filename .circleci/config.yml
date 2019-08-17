@@ -35,7 +35,7 @@ jobs:
       - run:
           command: git checkout -B master && rm -rf posts/ && mkdir posts
           working_directory: ~/otfl-site
-      - run: yarn build:posts ~/otfl-site/posts ~/otfl-sites
+      - run: yarn build:posts ~/otfl-site/posts ~/otfl-site
       - run: yarn build:css ./ && cp style.css ~/otfl-site
       - run: yarn build:pages ~/otfl-site/
       - run:
