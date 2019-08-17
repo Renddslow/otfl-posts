@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@otfl/build@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@otfl/build/-/build-1.0.2.tgz#93cd0fe61337c07b32f85965c9f2f44495db0009"
-  integrity sha512-BAz758AvkPxog61ts/5yUs+qZZJrac5Xi/AAE7WT9E3EnEv2WK1y0Rq2btG5O9KSYU0b4ANOtQ9XTfg6g/QATg==
+"@otfl/build@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@otfl/build/-/build-1.0.3.tgz#2d714c25d7ccb29a7732579631ff4f529fc6fb65"
+  integrity sha512-oJDwfxmPtxmBAHBLs2JqmrQZz6b0Y++FbS81ZBHCsik1U9aCxlWWFrPfLPkBfwK++H8ucatsrd+f5t183R6/cw==
   dependencies:
     ejs "^2.6.2"
     front-matter "^3.0.2"
