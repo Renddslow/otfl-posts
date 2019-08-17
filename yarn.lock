@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@otfl/build@^1.1.6":
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/@otfl/build/-/build-1.1.6.tgz#9f05744072bec5cacc9d0149648cc4bbdb5a06ad"
-  integrity sha512-5sy+Na8bwnnjpknI9Cl4CmySu9mx3OBU+n2sxtvxbKYGtA86lnKheOYjnFFc1FOe094jOeNg7LGSikNHy7hDaw==
+"@otfl/build@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@otfl/build/-/build-1.2.0.tgz#9b4f0ec668d7d0240767d02ff013ca2e03649392"
+  integrity sha512-sDMvAHcPfFbtcXDiv84Cx7NKOVotENcEQ4sfGl7hNipPNdVsAIYwLkE9EUzoZgIFIyP2b7M/HsKMdMg/sxarsw==
   dependencies:
     ejs "^2.6.2"
     front-matter "^3.0.2"
@@ -13,6 +13,7 @@
     marked "^0.7.0"
     pretty "^2.0.0"
     slugify "^1.3.4"
+    sort-on "^4.1.0"
     uglifycss "^0.0.29"
     wcag-contrast "^2.1.1"
 
@@ -27,6 +28,11 @@ argparse@^1.0.7:
   integrity sha512-o5Roy6tNG4SL/FOkCAN6RzjiakZS25RLYFrcMttJqbdd8BWrnA+fGz57iN5Pb06pvBGvl5gQ0B48dJlslXvoTg==
   dependencies:
     sprintf-js "~1.0.2"
+
+arrify@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/arrify/-/arrify-2.0.1.tgz#c9655e9331e0abcd588d2a7cad7e9956f66701fa"
+  integrity sha512-3duEwti880xqi4eAMN8AyR4a0ByT90zoYdLlevfrvU43vb0YZwZVfxOgxWrLXXXpyugL0hNZc9G6BiB5B3nUug==
 
 balanced-match@^1.0.0:
   version "1.0.0"
@@ -67,6 +73,13 @@ config-chain@^1.1.12:
   dependencies:
     ini "^1.3.4"
     proto-list "~1.2.1"
+
+dot-prop@^5.0.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/dot-prop/-/dot-prop-5.1.0.tgz#bdd8c986a77b83e3fca524e53786df916cabbd8a"
+  integrity sha512-n1oC6NBF+KM9oVXtjmen4Yo7HyAVWV2UUl50dCYJdw2924K6dX9bf9TTTWaKtYlRn0FEtxG27KS80ayVLixxJA==
+  dependencies:
+    is-obj "^2.0.0"
 
 editorconfig@^0.15.3:
   version "0.15.3"
@@ -146,6 +159,11 @@ is-extendable@^0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/is-extendable/-/is-extendable-0.1.1.tgz#62b110e289a471418e3ec36a617d472e301dfc89"
   integrity sha1-YrEQ4omkcUGOPsNqYX1HLjAd/Ik=
+
+is-obj@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/is-obj/-/is-obj-2.0.0.tgz#473fb05d973705e3fd9620545018ca8e22ef4982"
+  integrity sha512-drqDG3cbczxxEJRoOXcOjtdp1J/lyp1mNn0xaznRs8+muBhgQcrnbspox5X5fOw0HnMnbfDzvnEMEtqDEJEo8w==
 
 is-whitespace@^0.3.0:
   version "0.3.0"
@@ -286,6 +304,14 @@ slugify@^1.3.4:
   version "1.3.4"
   resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.3.4.tgz#78d2792d7222b55cd9fc81fa018df99af779efeb"
   integrity sha512-KP0ZYk5hJNBS8/eIjGkFDCzGQIoZ1mnfQRYS5WM3273z+fxGWXeN0fkwf2ebEweydv9tioZIHGZKoF21U07/nw==
+
+sort-on@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/sort-on/-/sort-on-4.1.0.tgz#939e671a35eddcf8b6c64fc3cbbdf2119f8e23f6"
+  integrity sha512-HStto6jwVlc3PL/cJplRMS1jiAwoqkH+BD375uDZU5hyYne5G2wlj7d1ggPVm0SVu7B6MxCjMQFlzDlzqmBOWg==
+  dependencies:
+    arrify "^2.0.1"
+    dot-prop "^5.0.0"
 
 sprintf-js@~1.0.2:
   version "1.0.3"
