@@ -11,6 +11,7 @@
   "scripts": {
     "build:pages": "otfl-build page ./pages",
     "build:posts": "otfl-build post ./posts",
+    "build:sw": "otfl-build sw",
     "build:css": "otfl-build css",
     "up": "yarn add @otfl/build"
   }
