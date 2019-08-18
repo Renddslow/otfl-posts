@@ -6,7 +6,7 @@
   "author": "Matt McElwee <mmcelwee@dmsi.com>",
   "license": "MIT",
   "dependencies": {
-    "@otfl/build": "^1.2.7"
+    "@otfl/build": "^1.2.8"
   },
   "scripts": {
     "build:pages": "otfl-build page ./pages",
