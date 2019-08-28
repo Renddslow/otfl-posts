@@ -13,6 +13,9 @@
     "build:posts": "otfl-build post ./posts",
     "build:sw": "otfl-build sw",
     "build:css": "otfl-build css",
-    "up": "yarn add @otfl/build"
+    "up": "node ./upgrade.js"
+  },
+  "devDependencies": {
+    "read-pkg": "^5.2.0"
   }
 }
