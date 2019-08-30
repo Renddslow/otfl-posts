@@ -1,72 +1,332 @@
 [
-  {
-    "author": "Willard, Dallas",
-    "title": "The Divine Conspiracy: Rediscovering Our Hidden Life In God",
-    "publisher": "Harper",
-    "city": "New York City",
-    "year": "1998",
-    "links": {
-      "amazon": "https://www.amazon.com/Divine-Conspiracy-Rediscovering-Hidden-Life/dp/0060693339"
-    }
-  },
-  {
-    "author": "Witherington III, Ben",
-    "title": "Priscilla: The Life of an Early Christian",
-    "publisher": "IVP Academic",
-    "city": "Downers Grove, IL",
-    "year": "2019",
-    "links": {
-      "amazon": "https://www.amazon.com/Priscilla-Christian-Ben-Witherington-III/dp/0830852484"
-    }
-  },
-  {
-    "author": "McKenzie, Thomas",
-    "title": "The Anglican Way: A Guidebook",
-    "publisher": "Rabbit Room",
-    "city": "Nashville",
-    "year": "2014",
-    "links": {
-      "amazon": "https://www.amazon.com/Anglican-Way-Guidebook-Thomas-McKenzie/dp/0996049908"
-    }
-  },
-  {
-    "author": "Wright, N. T.",
-    "title": "Paul: A Biography",
-    "publisher": "HarperOne",
-    "city": "San Francisco",
-    "year": "2018",
-    "links": {
-      "amazon": "https://www.amazon.com/Paul-Biography-N-T-Wright/dp/0061730580"
-    }
-  },
-  {
-    "author": "Claiborne, Shane & Michael Martin",
-    "title": "Beating Guns: Hope for People Who Are Weary of Violence",
-    "publisher": "Brazos Press",
-    "city": "Ada, MI",
-    "year": "2019",
-    "links": {
-      "amazon": "https://www.amazon.com/Beating-Guns-People-Weary-Violence/dp/158743413X"
-    }
-  },
-  {
-    "author": "Knoll, Mark A.",
-    "title": "The Scandal of the Evangelical Mind",
-    "publisher": "Eerdmans",
-    "city": "Grand Rapids",
-    "year": "1995",
-    "links": {
-      "amazon": "https://www.amazon.com/Scandal-Evangelical-Mind-Mark-Noll/dp/0802841805"
-    }
-  },
-  {
-    "author": "Longman III, Tremper & John H. Walton",
-    "title": "The Lost World of the Flood: Mythology, Theology, and the Deluge Debate",
-    "publisher": "IVP Academic",
-    "city": "Downers Grove, IL",
-    "year": "2018",
-    "links": {
-      "amazon": "https://www.amazon.com/Lost-World-Flood-Mythology-Theology/dp/083085200X"
-    }
-  }
+	{
+		"author": "Willard, Dallas",
+		"title": "The Divine Conspiracy: Rediscovering Our Hidden Life In God",
+		"publisher": "Harper",
+		"city": "New York City",
+		"year": "1998",
+		"links": {
+			"amazon": "https://www.amazon.com/Divine-Conspiracy-Rediscovering-Hidden-Life/dp/0060693339"
+		}
+	},
+	{
+		"author": "Witherington III, Ben",
+		"title": "Priscilla: The Life of an Early Christian",
+		"publisher": "IVP Academic",
+		"city": "Downers Grove, IL",
+		"year": "2019",
+		"links": {
+			"amazon": "https://www.amazon.com/Priscilla-Christian-Ben-Witherington-III/dp/0830852484"
+		}
+	},
+	{
+		"author": "McKenzie, Thomas",
+		"title": "The Anglican Way: A Guidebook",
+		"publisher": "Rabbit Room",
+		"city": "Nashville",
+		"year": "2014",
+		"links": {
+			"amazon": "https://www.amazon.com/Anglican-Way-Guidebook-Thomas-McKenzie/dp/0996049908"
+		}
+	},
+	{
+		"author": "Wright, N. T.",
+		"title": "Paul: A Biography",
+		"publisher": "HarperOne",
+		"city": "San Francisco",
+		"year": "2018",
+		"links": {
+			"amazon": "https://www.amazon.com/Paul-Biography-N-T-Wright/dp/0061730580"
+		}
+	},
+	{
+		"author": "Claiborne, Shane & Michael Martin",
+		"title": "Beating Guns: Hope for People Who Are Weary of Violence",
+		"publisher": "Brazos Press",
+		"city": "Ada, MI",
+		"year": "2019",
+		"links": {
+			"amazon": "https://www.amazon.com/Beating-Guns-People-Weary-Violence/dp/158743413X"
+		}
+	},
+	{
+		"author": "Knoll, Mark A.",
+		"title": "The Scandal of the Evangelical Mind",
+		"publisher": "Eerdmans",
+		"city": "Grand Rapids",
+		"year": "1995",
+		"links": {
+			"amazon": "https://www.amazon.com/Scandal-Evangelical-Mind-Mark-Noll/dp/0802841805"
+		}
+	},
+	{
+		"author": "Longman III, Tremper & John H. Walton",
+		"title": "The Lost World of the Flood: Mythology, Theology, and the Deluge Debate",
+		"publisher": "IVP Academic",
+		"city": "Downers Grove, IL",
+		"year": "2018",
+		"links": {
+			"amazon": "https://www.amazon.com/Lost-World-Flood-Mythology-Theology/dp/083085200X"
+		}
+	},
+	{
+		"title": "Searching for Sunday: Loving, Leaving, and Finding the Church",
+		"author": "Evans, Rachel Held",
+		"publisher": "Nelson Books",
+		"city": "Nashville",
+		"year": "2015",
+		"links": {
+			"amazon": "https://www.amazon.com/Searching-Sunday-Loving-Leaving-Finding/dp/0718022122"
+		}
+	},
+	{
+		"title": "Inspired: Slaying Giants, Walking on Water, and Loving the Bible Again",
+		"author": "Evans, Rachel Held",
+		"publisher": "Nelson Books",
+		"city": "Nashville",
+		"year": "2018",
+		"links": {
+			"amazon": "https://www.amazon.com/dp/0718022319/ref=emc_b_5_i"
+		}
+	},
+	{
+		"title": "Evolving in Monkey Town: How a Girl Who Knew All the Answers Learned to Ask the Questions",
+		"author": "Evans, Rachel Held",
+		"publisher": "Zondervan",
+		"city": "Grand Rapids",
+		"year": "2010",
+		"links": {
+			"amazon": "https://www.amazon.com/Evolving-Monkey-Town-Answers-Questions/dp/0310293995/ref=pd_sbs_14_5/132-1679316-5551012?_encoding=UTF8&pd_rd_i=0310293995&pd_rd_r=93411f40-e306-4503-984d-f187f1790706&pd_rd_w=Hdh6i&pd_rd_wg=cpaZg&pf_rd_p=43281256-7633-49c8-b909-7ffd7d8cb21e&pf_rd_r=7FMR4TSH51RKYMMEFK91&psc=1&refRID=7FMR4TSH51RKYMMEFK91"
+		}
+	},
+	{
+		"title": "Evil and the Justice of God",
+		"author": "Wright, N. T.",
+		"publisher": "IVP Books",
+		"city": "Downers Grove, IL",
+		"year": "2013",
+		"links": {
+			"amazon": "https://www.amazon.com/Evil-Justice-God-Rev-Wright/dp/083083415X"
+		}
+	},
+	{
+		"title": "7 Myths About Singleness",
+		"author": "Allberry, Sam",
+		"publisher": "Crossway Books",
+		"city": "Wheaton, IL",
+		"year": "2019",
+		"links": {
+			"amazon": "https://www.amazon.com/Myths-about-Singleness-Sam-Allberry/dp/1433561522"
+		}
+	},
+	{
+		"title": "The King Jesus Gospel: The Original Good News Revisited",
+		"author": "McKnight, Scot",
+		"publisher": "Zondervan",
+		"city": "Grand Rapids",
+		"year": "2016",
+		"links": {
+			"amazon": "https://www.amazon.com/King-Jesus-Gospel-Original-Revisited/dp/0310531454"
+		}
+	},
+	{
+		"title": "The Great Divorce",
+		"author": "Lewis, C. S.",
+		"publisher": "HarperOne",
+		"city": "San Francisco",
+		"year": "1945",
+		"links": {
+			"amazon": "https://www.amazon.com/Great-Divorce-C-S-Lewis/dp/0060652950"
+		}
+	},
+	{
+		"title": "Finding Holy in the Suburbs: Living Faithfully in the Land of Too Much",
+		"author": "Hales, Ashley",
+		"publisher": "IVP Books",
+		"city": "Downers Grove, IL",
+		"year": "2018",
+		"links": {
+			"amazon": "https://www.amazon.com/Finding-Holy-Suburbs-Living-Faithfully/dp/0830845453"
+		}
+	},
+	{
+		"title": "Myth of a Christian Nation: How the Quest for Political Power Is Destroying the Church",
+		"author": "Boyd, Gregory A.",
+		"publisher": "Zondervan",
+		"city": "Grand Rapids",
+		"year": "2007",
+		"links": {
+			"amazon": "https://www.amazon.com/Myth-Christian-Nation-Political-Destroying/dp/0310267315"
+		}
+	},
+	{
+		"title": "Lilith",
+		"author": "MacDonald, George",
+		"publisher": "Chatto and Windus",
+		"city": "London",
+		"year": "1895",
+		"links": {
+			"amazon": "https://www.amazon.com/Lilith-George-MacDonald/dp/0802860613"
+		}
+	},
+	{
+		"title": "The Lord and His Prayer",
+		"author": "Wright, N. T.",
+		"publisher": "Eerdmans",
+		"city": "Grand Rapids",
+		"year": "2014",
+		"links": {
+			"amazon": "https://www.amazon.com/Lord-His-Prayer-N-Wright/dp/0802871771"
+		}
+	},
+	{
+		"title": "Faith for This Moment: Navigating a Polarized World as the People of God",
+		"author": "McKinley",
+		"publisher": "Baker Books",
+		"city": "Grand Rapids",
+		"year": "2018",
+		"links": {
+			"amazon": "https://www.amazon.com/Faith-This-Moment-Rick-McKinley/dp/0801015588"
+		}
+	},
+	{
+		"title": "Desiring the Kingdom: Worship, Worldview, and Cultural Formation",
+		"author": "Smith, James K. A.",
+		"publisher": "Baker Academic",
+		"city": "Grand Rapids",
+		"year": "2009",
+		"links": {
+			"amazon": "https://www.amazon.com/Desiring-Kingdom-Worldview-Formation-Liturgies/dp/0801035775"
+		}
+	},
+	{
+		"title": "The Practice of the Presence of God",
+		"author": "Brother Lawrence",
+		"links": {}
+	},
+	{
+		"title": "Letters to the Church",
+		"author": "Chan, Francis",
+		"publisher": "David C. Cook",
+		"city": "Colorado Springs",
+		"year": "2018",
+		"links": {
+			"amazon": "https://www.amazon.com/Letters-Church-Francis-Chan/dp/0830776583"
+		}
+	},
+	{
+		"title": "Weakness Is the Way: Life with Christ Our Strength",
+		"author": "Packer, J. I.",
+		"publisher": "Crossway",
+		"city": "Wheaton, IL",
+		"year": "2013",
+		"links": {
+			"amazon": "https://www.amazon.com/Weakness-Way-Life-Christ-Strength/dp/1433536838"
+		}
+	},
+	{
+		"title": "The Pastor: A Memoir",
+		"author": "Peterson, Eugene H.",
+		"publisher": "HarperOne",
+		"city": "San Francisco",
+		"year": "2012",
+		"links": {
+			"amazon": "https://www.amazon.com/Pastor-Memoir-Eugene-H-Peterson/dp/0061988219"
+		}
+	},
+	{
+		"title": "Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church",
+		"author": "Wright, N. T.",
+		"publisher": "HarperOne",
+		"city": "San Francisco",
+		"year": "2008",
+		"links": {
+			"amazon": "https://www.amazon.com/Surprised-Hope-Rethinking-Resurrection-Mission/dp/0061551821"
+		}
+	},
+	{
+		"title": "Fight: A Christian Case for Non-Violence",
+		"author": "Sprinkle, Preston & Andrew Rillera",
+		"links": {}
+	},
+	{
+		"title": "Fight: A Christian Case for Non-Violence",
+		"author": "Sprinkle, Preston",
+		"publisher": "David C Cook",
+		"city": "Colorado Springs",
+		"year": "2013",
+		"links": {
+			"amazon": "https://www.amazon.com/Fight-Christian-Non-Violence-Preston-Sprinkle/dp/1434704920"
+		}
+	},
+	{
+		"title": "The Day the Revolution Began: Reconsidering the Meaning of Jesus's Crucifixion",
+		"author": "Wright, N. T.",
+		"publisher": "HarperOne",
+		"city": "San Francisco",
+		"year": "2016",
+		"links": {
+			"amazon": "https://www.amazon.com/Day-Revolution-Began-Reconsidering-Crucifixion/dp/0062334387"
+		}
+	},
+	{
+		"title": "The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate",
+		"author": "Walton, John H.",
+		"publisher": "IVP Academic",
+		"city": "Downers Grove, IL",
+		"year": "2015",
+		"links": {
+			"amazon": "https://www.amazon.com/Lost-World-Adam-Eve-Genesis/dp/0830824618"
+		}
+	},
+	{
+		"title": "The Eternal Current",
+		"author": "Niequist, Aaron",
+		"publisher": "WaterBrook",
+		"city": "Colorado Springs",
+		"year": "2018",
+		"links": {
+			"amazon": "https://www.amazon.com/Eternal-Current-Practice-Based-Faith-Drowning-ebook/dp/B077CSNSLN"
+		}
+	},
+	{
+		"title": "The Unseen Realm",
+		"author": "Heiser, Michael S.",
+		"publisher": "Lexham Press",
+		"city": "Bellingham, WA",
+		"year": "2015",
+		"links": {
+			"amazon": "https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562"
+		}
+	},
+	{
+		"title": "The Gospel Comes with a House Key: Practicing Radically Ordinary Hospitality in Our Post-Christian World",
+		"author": "Butterfield, Rosaria",
+		"publisher": "Crossway Books",
+		"city": "Wheaton, IL",
+		"year": "2018",
+		"links": {
+			"amazon": "https://www.amazon.com/Gospel-Comes-House-Key-Post-Christian/dp/143355786X"
+		}
+	},
+	{
+		"title": "Erasing Hell: What God Said about Eternity, and the Things We Made Up",
+		"author": "Chan, Francis & Preston Sprinkle",
+		"publisher": "David C. Cook",
+		"city": "Colorado Springs",
+		"year": "2011",
+		"links": {
+			"amazon": "https://www.amazon.com/Erasing-Hell-About-Eternity-Things/dp/0781407257"
+		}
+	},
+	{
+		"title": "The Lost World of Genesis One: Ancient Cosmology and the Origins Debate",
+		"author": "Walton, John H.",
+		"publisher": "IVP Academic",
+		"city": "Downers Grove, IL",
+		"year": "2009",
+		"links": {
+			"amazon": "https://www.amazon.com/Lost-World-Genesis-One-Cosmology/dp/0830837043"
+		}
+	}
 ]
