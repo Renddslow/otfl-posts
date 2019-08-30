@@ -323,5 +323,105 @@
 		"links": {
 			"amazon": "https://www.amazon.com/Lost-World-Genesis-One-Cosmology/dp/0830837043"
 		}
+	},
+	{
+		"title": "It Takes a Church to Baptize",
+		"author": "McKnight, Scot",
+		"publisher": "Brazos Press",
+		"city": "Grand Rapids",
+		"year": "2018",
+		"links": {
+			"amazon": "https://www.amazon.com/Takes-Church-Baptize-Scot-McKnight/dp/1587434164"
+		}
+	},
+	{
+		"title": "Our One Great Act of Fidelity: Waiting for Christ in the Eucharist",
+		"author": "Rolheiser, Ronald",
+		"publisher": "Image",
+		"city": "New York",
+		"year": "2011",
+		"links": {
+			"amazon": "https://www.amazon.com/Our-One-Great-Act-Fidelity/dp/0307887030"
+		}
+	},
+	{
+		"title": "Know the Heretics",
+		"author": "Holcomb, Justin S.",
+		"publisher": "Zondervan Academic",
+		"city": "Grand Rapids",
+		"year": "2014",
+		"links": {
+			"amazon": "https://www.amazon.com/Know-Heretics-KNOW-Justin-Holcomb/dp/0310515076"
+		}
+	},
+	{
+		"title": "Read the Bible for a Change: Understanding and Responding to God's Word",
+		"author": "Lubeck, Ray",
+		"publisher": "Authentic and World Vision",
+		"city": "Grand Rapids",
+		"year": "2005",
+		"links": {
+			"amazon": "https://www.amazon.com/Read-Bible-Change-Understanding-Responding/dp/1932805362"
+		}
+	},
+	{
+		"title": "The Jesus Creed: Loving God, Loving Others",
+		"author": "McKnight, Scot",
+		"publisher": "Paraclete Press",
+		"city": "Orleans, MA",
+		"year": "2004",
+		"links": {
+			"amazon": "https://www.amazon.com/Jesus-Creed-Loving-God-Others/dp/1557254001"
+		}
+	},
+	{
+		"title": "Salvation by Allegiance Alone: Rethinking Faith, Works, and the Gospel of Jesus the King",
+		"author": "Bates, Matthew W.",
+		"publisher": "Baker Academic",
+		"city": "Grand Rapids",
+		"year": "2017",
+		"links": {
+			"amazon": "https://www.amazon.com/Salvation-Allegiance-Alone-Rethinking-Gospel/dp/0801097975"
+		}
+	},
+	{
+		"title": "People to Be Loved: Why Homosexuality Is Not Just an Issue",
+		"author": "Sprinkle, Preston",
+		"publisher": "Zondervan",
+		"city": "Grand Rapids",
+		"year": "2015",
+		"links": {
+			"amazon": "https://www.amazon.com/People-Be-Loved-Homosexuality-Issue/dp/0310519659"
+		}
+	},
+	{
+		"title": "You Mean I Dont Have to Tithe?: A Deconstruction of Tithing and a Reconstruction of Post-Tithe Giving",
+		"author": "Croteau, David A.",
+		"publisher": "Wipf & Stock Pub",
+		"city": "Eugene, OR",
+		"year": "2010",
+		"links": {
+			"amazon": "https://www.amazon.com/Mean-Dont-Have-Tithe-Deconstruction/dp/1606084054"
+		}
+	},
+	{
+		"title": "The Lost World of the Israelite Conquest: Covenant, Retribution, and the Fate of the Canaanites",
+		"author": "Walton, John H.",
+		"publisher": "IVP Academic",
+		"city": "Downers Grove, IL",
+		"year": "2017",
+		"links": {
+			"amazon": "https://www.amazon.com/Lost-World-Israelite-Conquest-Retribution/dp/0830851844"
+		}
+	},
+	{
+		"title": "Dominion and Dynasty: A Theology of the Hebrew Bible",
+		"author": "Dempster, Stephen G.",
+		"publisher": "IVP Academic",
+		"city": "Downers Grove, IL",
+		"year": "2003",
+		"links": {
+			"amazon": "https://www.amazon.com/Dominion-Dynasty-Theology-Studies-Biblical/dp/0830826157"
+		}
 	}
 ]
