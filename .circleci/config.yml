@@ -39,6 +39,7 @@ jobs:
       - run: yarn build:css ./ && cp style.css ~/otfl-site
       - run: yarn build:pages ~/otfl-site
       - run: yarn build:sw ~/otfl-site
+      - run: yarn build:books ~/otfl-site
       - run:
           command: git config user.email "mubatt@wyopub.com" && git config user.name "$CIRCLE_USERNAME" && git config push.default current
           working_directory: ~/otfl-site

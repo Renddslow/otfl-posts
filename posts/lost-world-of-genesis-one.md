@@ -4,8 +4,6 @@ tags: Creation, Cosmology, Ancient Near East
 author: Matt McElwee
 date: 2019-08-16T16:22:00-05:00
 title: The Lost World of Genesis One
-image: https://images.unsplash.com/photo-1525153619385-b392c01cf467?ixlib=rb-1.2.1&auto=format&fit=crop&w=932&q=80
-imageAlt: The cover of "The Lost World of Genesis One"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac augue et est efficitur eleifend. Mauris sollicitudin euismod lobortis. Pellentesque molestie libero in tristique malesuada. Etiam et justo vitae tellus vestibulum facilisis sed id est. Cras et hendrerit metus, sed blandit ante. Nullam felis urna, aliquam ac placerat gravida, sollicitudin sit amet tellus. Etiam feugiat quis justo et pharetra. Nulla bibendum at enim congue faucibus. Sed posuere eu leo nec porttitor. Fusce posuere ante sem, sed efficitur ligula eleifend sed. Ut posuere, arcu non elementum suscipit, libero massa ullamcorper sapien, non bibendum quam quam ac ante.

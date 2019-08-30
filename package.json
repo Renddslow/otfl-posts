@@ -6,13 +6,14 @@
   "author": "Matt McElwee <mmcelwee@dmsi.com>",
   "license": "MIT",
   "dependencies": {
-    "@otfl/build": "^1.4.1"
+    "@otfl/build": "^1.5.0"
   },
   "scripts": {
     "build:pages": "otfl-build page ./pages",
     "build:posts": "otfl-build post ./posts",
     "build:sw": "otfl-build sw",
     "build:css": "otfl-build css",
+    "build:books": "otfl-build biblio ./books.json",
     "up": "node ./upgrade.js"
   },
   "devDependencies": {
