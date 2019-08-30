@@ -18,5 +18,55 @@
     "links": {
       "amazon": "https://www.amazon.com/Priscilla-Christian-Ben-Witherington-III/dp/0830852484"
     }
+  },
+  {
+    "author": "McKenzie, Thomas",
+    "title": "The Anglican Way: A Guidebook",
+    "publisher": "Rabbit Room",
+    "city": "Nashville",
+    "year": "2014",
+    "links": {
+      "amazon": "https://www.amazon.com/Anglican-Way-Guidebook-Thomas-McKenzie/dp/0996049908"
+    }
+  },
+  {
+    "author": "Wright, N. T.",
+    "title": "Paul: A Biography",
+    "publisher": "HarperOne",
+    "city": "San Francisco",
+    "year": "2018",
+    "links": {
+      "amazon": "https://www.amazon.com/Paul-Biography-N-T-Wright/dp/0061730580"
+    }
+  },
+  {
+    "author": "Claiborne, Shane & Michael Martin",
+    "title": "Beating Guns: Hope for People Who Are Weary of Violence",
+    "publisher": "Brazos Press",
+    "city": "Ada, MI",
+    "year": "2019",
+    "links": {
+      "amazon": "https://www.amazon.com/Beating-Guns-People-Weary-Violence/dp/158743413X"
+    }
+  },
+  {
+    "author": "Knoll, Mark A.",
+    "title": "The Scandal of the Evangelical Mind",
+    "publisher": "Eerdmans",
+    "city": "Grand Rapids",
+    "year": "1995",
+    "links": {
+      "amazon": "https://www.amazon.com/Scandal-Evangelical-Mind-Mark-Noll/dp/0802841805"
+    }
+  },
+  {
+    "author": "Longman III, Tremper & John H. Walton",
+    "title": "The Lost World of the Flood: Mythology, Theology, and the Deluge Debate",
+    "publisher": "IVP Academic",
+    "city": "Downers Grove, IL",
+    "year": "2018",
+    "links": {
+      "amazon": "https://www.amazon.com/Lost-World-Flood-Mythology-Theology/dp/083085200X"
+    }
   }
 ]
