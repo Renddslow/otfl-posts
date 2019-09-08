@@ -428,5 +428,25 @@
 		"links": {
 			"amazon": "https://www.amazon.com/Epic-Eden-Christian-Entry-Testament/dp/0830825770"
 		}
+	},
+	{
+		"title": "Believe Me: The Evangelical Road to Donald Trump",
+		"author": "Fea, John",
+		"publisher": "Eerdmans",
+		"city": "Grand Rapids",
+		"year": "2018",
+		"links": {
+			"amazon": "https://www.amazon.com/Believe-Me-Evangelical-Donald-Trump/dp/0802876412"
+		}
+	},
+	{
+		"title": "Turning Points: Decisive Moments in the History of Christianity",
+		"author": "Noll, Mark A.",
+		"publisher": "Baker Academic",
+		"city": "Grand Rapids",
+		"year": "2001",
+		"links": {
+			"amazon": "https://www.amazon.com/Turning-Points-Decisive-Moments-Christianity/dp/080106211X"
+		}
 	}
 ]
