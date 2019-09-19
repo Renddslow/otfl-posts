@@ -448,5 +448,25 @@
 		"links": {
 			"amazon": "https://www.amazon.com/Turning-Points-Decisive-Moments-Christianity/dp/080106211X"
 		}
+	},
+	{
+		"title": "A Grief Observed",
+		"author": "Lewis C. S.",
+		"publisher": "HarperOne",
+		"city": "San Francisco",
+		"year": "1961",
+		"links": {
+			"amazon": "https://www.amazon.com/Grief-Observed-C-S-Lewis/dp/0060652381"
+		}
+	},
+	{
+		"title": "On the Incarnation: Saint Athanasius",
+		"author": "Saint Athanasius",
+		"publisher": "St. Vladimir's Seminary Press",
+		"city": "Yonkers, NY",
+		"year": "2012",
+		"links": {
+			"amazon": "https://www.amazon.com/Incarnation-Saint-Athanasius-Popular-Patristics/dp/0881414271/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=JEXARGS3AYBPSXFH6WFD"
+		}
 	}
 ]
