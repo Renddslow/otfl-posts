@@ -6,11 +6,11 @@ date: 2019-09-01T22:00:00-0500
 title: A Testimony of Genealogy
 ---
 
-Growing up in Evangelical churches one of the most common things you're coached on is how to give your testimony, especially in your high school years. 1 Peter 3:15 was an oft quoted passage, "...always being ready to make a defense to everyone who asks you to give an account for the hope that is in you..." I recall times around a campfire when three young ladies would get up and share about how a certain event caused them serious depression that culminated in suicide ideation, but God ultimately brought them through it. I would hear stories of power lifters, now sold out evangelists, who were delivered from decades of drug abuse. Some of my favorites were stories of Muslims who encountered visions of Jesus and turned their allegiance to him and his Kingdom immediately.
+Growing up in Evangelical churches one of the most common things you're coached on is how to give your testimony, especially in your high school years. 1 Peter 3:15 was an oft quoted passage, "[...] always being ready to make a defense to everyone who asks you to give an account for the hope that is in you." I recall times around a campfire when three young ladies would get up and share about how a certain event caused them serious depression that culminated in suicide ideation, but God ultimately brought them through it. I would hear stories of power lifters, now sold out evangelists, who were delivered from decades of drug abuse. Some of my favorites were stories of Muslims who encountered visions of Jesus and turned their allegiance to him and his Kingdom immediately.
 
 Being a kid steeped in Scripture, formed in a Christian household from a young age, with a very small record of Sunday services skipped, I felt jipped. I had no story of God's deliverance in my life up to that point. I didn't have a story with a beginning, middle, and end. In fact, if someone were to ask me for my testimony, I don't know that I could have given it to him.
 
-Fortunately, in my later teen years I was afforded the chance to experience depression, self-harm, suicide ideation, pornography addiction, and complete disillusionment with God and his Church. I am of course making light of what were serious issues in my life and many people experience. And I testify to the fact that God is a great deliverer. But the reality is that many of us as kids who grew up in Evangelical Protestant churches feel a serious pressure to get stories like this, or to over-manufacture the severity of them because what is a Christian conversion if there isn't radical transformation or major deliverance?
+Fortunately, in my later teen years I was afforded the chance to experience depression, self-harm, suicide ideation, pornography addiction, and complete disillusionment with God and his Church. I am of course making light of what were serious issues in my life and issues many people experience, and I testify to the fact that God is a great deliverer. The reality is that many of us as kids who grew up in Evangelical Protestant churches feel a serious pressure to get stories like this, or to over-manufacture the severity of them, because what is a Christian conversion if there isn't radical transformation or major deliverance?
 
 I think approaching a Christian life and story in this way robs God of his power. We say without words that the only way God can save is if you were an absolute mess, as if to say that if you weren't a mess perhaps you wouldn't need Christ. This is what Dallas Willard calls a Gospel of Sin Management in his book [The Divine Conspiracy](https://www.amazon.com/Divine-Conspiracy-Rediscovering-Hidden-Life/dp/0060693339). While sin and the freedom from it is core to the work and life of Jesus, his message was largely about a soon coming Kingdom of which if we would repent and believe, we could be a part of.
  
@@ -22,7 +22,11 @@ I think approaching a Christian life and story in this way robs God of his power
 >
 > Exodus 3:6
 
-The most commonly skipped passages in Scripture, outside of the prophetic texts that don't have connection to the Messiah or eschaton, are genealogies. Genesis 4, 5, 10, 11
+The most commonly skipped over passages in Scripture tend to be genealogies. I get it, they're long and often don't 
+
+I. On biblical generations
+II. Finding yourself in a story
+III. 
 
 ## My Testimony of Genealogy
 
