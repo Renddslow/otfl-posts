@@ -488,5 +488,25 @@
 		"links": {
 			"amazon": "https://www.amazon.com/Theological-Crisis-Steven-Janice-Lectures/dp/0807830127"
 		}
+	},
+	{
+		"title": "Human Rites: The Power of Rituals, Habits, and Sacraments",
+		"author": "Johnson, Dru",
+		"publisher": "Eerdmans",
+		"city": "Grand Rapids",
+		"year": "2019",
+		"links": {
+			"amazon": "https://www.amazon.com/Human-Rites-Rituals-Habits-Sacraments/dp/0802876005"
+		}
+	},
+	{
+		"title": "Liturgy of the Ordinary: Sacred Practices in Everyday Life",
+		"author": "Warren, Tish Harrison",
+		"publisher": "IVP Books",
+		"city": "Downers Grove, IL",
+		"year": "2016",
+		"links": {
+			"amazon": "https://www.amazon.com/Liturgy-Ordinary-Sacred-Practices-Everyday/dp/0830846239"
+		}
 	}
 ]
