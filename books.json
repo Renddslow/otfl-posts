@@ -508,5 +508,35 @@
 		"links": {
 			"amazon": "https://www.amazon.com/Liturgy-Ordinary-Sacred-Practices-Everyday/dp/0830846239"
 		}
+	},
+	{
+		"title": "Gospel Allegiance",
+		"author": "Bates, Matthew W.",
+		"publisher": "Brazos Press",
+		"city": "Ada, MI",
+		"year": "2019",
+		"links": {
+			"amazon": "https://www.amazon.com/Gospel-Allegiance-Matthew-W-Bates/dp/1587434539"
+		}
+	},
+	{
+		"title": "The Divine Commodity: Discovering a Faith Beyond Consumer Christianity",
+		"author": "Jethani, Skye",
+		"publisher": "Zondervan",
+		"city": "Grand Rapids",
+		"year": "2013",
+		"links": {
+			"amazon": "https://www.amazon.com/Divine-Commodity-Discovering-Consumer-Christianity/dp/0310515920"
+		}
+	},
+	{
+		"title": "The Liturgy of Creation: Understanding Calendars in Old Testament Context",
+		"author": "LeFebvre, Michael",
+		"publisher": "IVP Academic",
+		"city": "Downers Grove, IL",
+		"year": "2019",
+		"links": {
+			"amazon": "https://www.amazon.com/Liturgy-Creation-Understanding-Calendars-Testament/dp/083085262X"
+		}
 	}
 ]
