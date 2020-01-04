@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@otfl/build@^1.8.0":
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/@otfl/build/-/build-1.8.0.tgz#2ad14dac1e734f54be9c75191904cdd32820798c"
-  integrity sha512-2/ZDjVgGxQuAo08aRSa3eMqgCd+GI6yRNoEUjtyBuWxqJ35//omD9jgAuBuSfyvWMlTB/F/9r2zTa3jMxS9Hcw==
+"@otfl/build@^1.8.1":
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/@otfl/build/-/build-1.8.1.tgz#7b58ed1f3dec6480caad23b2f398221dfde4153e"
+  integrity sha512-jzmHhg3mls4/OPB9BwNcVtANakrdyBOVX74GZWQiA5lpeySStav+yvSaIQABeyVVSS+mGXL0xkYFihBVFQbvWA==
   dependencies:
     cuid "^2.1.6"
     ejs "^2.6.2"
@@ -29,6 +29,7 @@
     lieutenant "^1.1.0"
     marked "^0.7.0"
     pretty "^2.0.0"
+    qs "^6.9.1"
     slugify "^1.3.4"
     sort-on "^4.1.0"
     uglifycss "^0.0.29"
@@ -416,6 +417,11 @@ pseudomap@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/pseudomap/-/pseudomap-1.0.2.tgz#f052a28da70e618917ef0a8ac34c1ae5a68286b3"
   integrity sha1-8FKijacOYYkX7wqKw0wa5aaChrM=
+
+qs@^6.9.1:
+  version "6.9.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.9.1.tgz#20082c65cb78223635ab1a9eaca8875a29bf8ec9"
+  integrity sha512-Cxm7/SS/y/Z3MHWSxXb8lIFqgqBowP5JMlTUFyJN88y0SGQhVmZnqFK/PeuMX9LzUyWsqqhNxIyg0jlzq946yA==
 
 read-pkg@^5.2.0:
   version "5.2.0"
