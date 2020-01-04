@@ -4,6 +4,7 @@ tags: Climate Change, Prophetic Imagination, Eden, New Creation
 author: Matt McElwee
 date: 2019-11-30T21:31:00-0500
 title: Imagining a Different World
+draft: true
 ---
 
 Right now I'm processing through Walter Brueggemann's masterwork, __The Prophetic Imagination__. It's a book I've been anxious to read for awhile now, but as I work through it, I feel like I'm getting punched in the gut with every-other line. One of the prevailing themes of the book is that the people of God need to reclaim their prophetic voice. Their voice is not found in the current politic, nor by aligning themselves with the powers of Babylon. Rather their voice is found in recognizing the freedom of their God. He is not bound by any tradition or power or person. 
