@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@otfl/build@^1.8.2":
-  version "1.8.2"
-  resolved "https://registry.yarnpkg.com/@otfl/build/-/build-1.8.2.tgz#3f4a73f2e12f3be4ad6432159f45e3d158e74b19"
-  integrity sha512-7lB+qWEQkmTbfECVIbXTrQFRlmKIVICijKV/4uL7nRw/89Moo2yBZzf7C8ogSMOTy+hbypvXf1I5wyURyrRDUQ==
+"@otfl/build@^1.9.0":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@otfl/build/-/build-1.9.0.tgz#1c82404952832758fd06f8a914595381e319f996"
+  integrity sha512-a6ZCNUJmdEZl924GbXVf3qg3LXLVoTg5u9izUcm0zLzQ23vAqLkASMYziGw/w5nP7uJGAVdAQe5DZh2kNNtpsw==
   dependencies:
     cuid "^2.1.6"
     ejs "^2.6.2"
