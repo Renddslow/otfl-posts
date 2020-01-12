@@ -1,6 +1,6 @@
 ---
-title: On Pharisaism
-tags: Breuggemann
+title: The God Box
+tags: Breuggemann, Moses, Ezekiel, Prophetic Imagination, Moral Majority
 author: Matt McElwee
 date: 2019-01-11T19:36:00-0500
 category: Thoughts
