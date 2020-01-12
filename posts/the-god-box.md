@@ -10,7 +10,7 @@ In the City of Peace sat two towering structures. The first was the palace of th
 
 The palace was surrounded by three great walls that circled round about it. Each wall was made of thick hewn limestone. Each block was hand carved by skilled masons, each conscripted to serve the king with only a single plate of food a day. The slave markets of the neighboring nations were emptied to provide labor to lift each block into place. 
 
-Between each wall, deep trenches we’re dug with plows pulled by great oxen imported from wealthy neighbors. The levies on the people of the nation was great, but the king’s word was final, and he was the mouthpiece of the One God.
+Between each wall, deep trenches were dug with plows pulled by great oxen imported from wealthy neighbors. The levies on the people of the nation was great, but the king’s word was final, and he was the mouthpiece of the One God.
 
 Inside the innermost wall was a grand courtyard with a beautiful garden. Plants had been imported from the furthest ends of the earth. Green leafy plants and fruit bearing plants alike. Each day the king would roam the gardens. Assigning to each shrub and plant a new name. The garden was tended by a refugee family who had escaped the war in the southlands. From morning till night they cared for each plant. Their pay was meager, not enough to live in a crafted home, rather living in a leather tent in the wilderness outside the City walls. 
 
