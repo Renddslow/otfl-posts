@@ -4,6 +4,7 @@ tags: Breuggemann, Moses, Ezekiel, Prophetic Imagination, Moral Majority
 author: Matt McElwee
 date: 2019-01-11T19:36:00-0500
 category: Thoughts
+draft: true
 ---
 
 In the City of Peace sat two towering structures. The first was the palace of the great king and the second was the temple to the One God. 
